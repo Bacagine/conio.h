@@ -43,7 +43,7 @@ Step 1 :
 * Open terminal sudo apt-get update
 * sudo apt-get upgrade
 * sudo apt-get install git
-* git clone https://github.com/zoelabbb/conio.h.git
+* git clone https://github.com/Bacagine/conio.h.git
 * cd conio.h
 
 
@@ -59,3 +59,4 @@ Step 2 :
 * Paste file conio.h
 * Close your IDE and open again
 * Done :D
+
